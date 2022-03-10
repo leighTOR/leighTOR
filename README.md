@@ -7,8 +7,6 @@
 <div align=center>
     <a href="mailto:leighinna.jamolin@lspu.edu.ph">
       <img src="https://img.shields.io/badge/-leighinna.jamolin@lspu.edu.ph-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leighest2021@gmail.com)](leighest2021@gmail.com" alt="Gmail" /></a>
-  <a href="https://www.facebook.com/leigh.queue">
-    <img src="https://img.shields.io/badge/-Leigh Queue-3b5998?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/leigh.queue)](https://www.facebook.com/leigh.queue" alt="Facebook" /></a>
 </div>
 <br>
 

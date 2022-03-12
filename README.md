@@ -35,7 +35,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="height: 4rem"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height: 4rem"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
-        <img src="https://img.icons8.com/material-outlined/192/ffffff/github.png" style="height: 4rem"/>
+        <a href="https://www.google.com/search?gs_ssp=eJzj4tLP1TcoqiwoyE1XYDRgdGDwYkvPLMkoTQIAWC4HFA&q=github&rlz=1C1UEAD_enPH983PH983&oq=github&aqs=chrome.4.69i60j69i59l3j46i199i433i465i512j69i60l3.4445j0j9&sourceid=chrome&ie=UTF-8" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" style="height: 4rem"/></a>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" style="height: 4rem"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="height: 4rem"/>
     </p>

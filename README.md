@@ -62,4 +62,4 @@
 </div>
 <br>
 
-<h3 align="center">Thank you for visiting!</h3>
+<h2 align="center">Thank you for visiting!</h2>

@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋, I'm LEIGH</h1>
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=d8e214&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Aspiring+Software+Engineer;Layout+Artist;Designer;Tech+Enthusiast" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=d8e214&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Aspiring+Software+Engineer;Layout+Artist;Tech+Enthusiast" alt="Headline" />
 </div>
 
 <div align=center>

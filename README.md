@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋, I'm LEIGH</h1>
+<h1 align="center">✨ LEIGH JAMOLIN ✨</h1>
 
 <div align=center>
     <img src="https://readme-typing-svg.herokuapp.com?color=d8e214&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Aspiring+Software+Engineer;Layout+Artist;Tech+Enthusiast" alt="Headline" />
@@ -9,19 +9,20 @@
       <img src="https://img.shields.io/badge/-leighinna.jamolin@lspu.edu.ph-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leighest2021@gmail.com)](leighest2021@gmail.com" alt="Gmail" /></a>
 </div>
 <br>
-
+<!--
 <div align="left"> <h3>Profile Views:</h3>
 <img src="https://komarev.com/ghpvc/?username=leighTOR&label=Profile%20views&color=d8e214&style=flat-square"
      alt="Profile Views" /> 
 </div>
 <br>
-
+-->
 <div align="left"> <h3>Current Status Quo:</h3>
     
 - 👀 I’m interested in Machine Learning and Aritificial Intelligence.
 - 🌱 I’m currently learning Computer Science and Software Engineering through C# programming language.
 - 💞️ I’m looking for internship opportunities for Computer Programmers.
 - 📫 How to reach me: Catch and follow me from the links above.
+- 🏫 This is for my school activities; Not my main GitHub account.
 - ⚡ Fun fact: I like to think that I'm a Slytherin.
 </div>
 <br>

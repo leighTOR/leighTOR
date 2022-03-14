@@ -23,7 +23,7 @@
 - 💞️ I’m looking for internship opportunities for Computer Programmers.
 - 📫 How to reach me: Catch and follow me from the links above.
 - 🏫 This is for my school activities; Not my main GitHub account.
-- ⚡ Fun fact: I like to think that I'm a Slytherin.
+- ⚡ Fun fact(?): Constantly having Imposter Syndrome.
 </div>
 <br>
 

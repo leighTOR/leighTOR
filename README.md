@@ -1,7 +1,7 @@
-<h1 align="center">✨ LEIGH JAMOLIN ✨</h1>
+<h1 align="center">⛈️ LEIGH JAMOLIN ⛈️</h1>
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=d8e214&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Aspiring+Software+Engineer;Layout+Artist;Tech+Enthusiast" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=00a8d9&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Aspiring+Software+Engineer;Layout+Artist;Tech+Enthusiast" alt="Headline" />
 </div>
 
 <div align=center>
@@ -45,11 +45,11 @@
 
 <div align="left"> <h3>GitHub Statistical Data:</h3>
     <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=leighTOR&theme=highcontrast&date_format=j%20M%5B%20Y%5D"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=leighTOR&theme=algolia&date_format=j%20M%5B%20Y%5D"
         alt="GitHub Most Used Langs" /></p>
-        <img src="https://github-readme-stats.vercel.app/api?username=leighTOR&theme=highcontrast&date_format=j%20M%5B%20Y%5D"
+        <img src="https://github-readme-stats.vercel.app/api?username=leighTOR&theme=algolia&date_format=j%20M%5B%20Y%5D"
              alt="GitHub Stats" height="200" />
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=leighTOR&theme=highcontrast&date_format=j%20M%5B%20Y%5D"
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=leighTOR&theme=algolia&date_format=j%20M%5B%20Y%5D"
              alt="GitHub Streak Stats" height="200" />
     </div>
 <br>
@@ -57,7 +57,7 @@
 <div align="left"> <h3>Trophies:</h3>
 <p align="left">
     <a href="https://github.com/leighDEV/github-profile-trophy">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=leighTOR&theme=highcontrast&margin-h=15&margin-w=5&no-bg=true"
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=leighTOR&theme=algolia&margin-h=15&margin-w=5&no-bg=true"
            alt="Github Trophy" /></a>
     </p>
 </div>

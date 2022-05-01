@@ -20,9 +20,9 @@
     
 - 👀 I’m interested in Machine Learning and Aritificial Intelligence.
 - 🌱 I’m currently learning C# Windows Forms Application.
-- 💞️ I’m looking for internship opportunities for Computer Programmers.
+- 💞️ I’m looking for internship opportunities for C# developers.
 - 📫 How to reach me: Catch and follow me from the email above.
-- 🏫 This is for my school activities; Not my main GitHub account.
+- 🏫 This is for my school activities repositories.
 - ⚡ Fun fact(?): Constantly having Imposter Syndrome.
 </div>
 <br>

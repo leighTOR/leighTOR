@@ -42,12 +42,11 @@
 <div align="left" style="margin: 30px;">
     <h2 style="color: #00a8d9;">GitHub Stats 📊</h2>
     <p>
-        <img align="leftt" src="https://github-readme-stats.vercel.app/api/top-langs?username=leighTOR&show_icons=true&locale=en&layout=compact&theme=algolia&date_format=j%20M%5B%20Y%5D" alt="Top Languages" />
-    </p>
-    <p>
+        <img align="leftt" src="https://github-readme-stats.vercel.app/api/top-langs?username=leighTOR&show_icons=true&locale=en&layout=compact&theme=algolia&date_format=j%20M%5B%20Y%5D" alt="Top Languages" height="195px"/>
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=leighTOR&show_icons=true&locale=en&theme=algolia&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats" />
     </p>
 </div>
+
 <br>
 
 <!-- Trophies Section -->

@@ -41,8 +41,8 @@
 <!-- GitHub Stats Section -->
 <h2 style="color: #00a8d9;">GitHub Stats 📊</h2>
     <p>
-        <img align="leftt" src="https://github-readme-stats.vercel.app/api/top-langs?username=leighTOR&show_icons=true&locale=en&layout=compact&theme=algolia&date_format=j%20M%5B%20Y%5D" alt="Top Languages" />
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=leighTOR&show_icons=true&locale=en&theme=algolia&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats"/>
+        <img align="leftt" src="https://github-readme-stats.vercel.app/api/top-langs?username=leighTOR&show_icons=true&locale=en&layout=compact&theme=algolia&date_format=j%20M%5B%20Y%5D" alt="Top Languages" height="200px"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=leighTOR&show_icons=true&locale=en&theme=algolia&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats" height="200px" />
     </p>
 <br>
 
